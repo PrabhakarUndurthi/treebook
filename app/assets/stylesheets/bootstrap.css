@@ -738,6 +738,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
 }
 @media (min-width: 768px) {
   .container {
@@ -3938,8 +3939,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  background-color:#101010;
+ 
+  font-family: 'lucida' ;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  
 }
 .navbar-default .navbar-brand {
   color: #777;
